@@ -1,2 +1,5 @@
 # Curtains-control-IoT
 Raspberry Pi Python code operates a motor to open and close curtains in response to MQTT from Adafruit IO
+
+Work in progress - code to follow shortly! (Feb 2018)
+
